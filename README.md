@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hazlamshamin
 - 👀 I’m interested in molecular biology, syntetic biology and biotechnology
-- 🌱 Graduated BSc Biochemistry at Imperial College London, PhD-ing at Institute of Systems Biology, UKM
+- 🌱 Graduated BSc Biochemistry at Imperial College London, PhD-ing in synthetic biology at Institute of Systems Biology, UKM
 - 📫 How to reach me: hazlamshamin@gmail.com
 
 <!---
